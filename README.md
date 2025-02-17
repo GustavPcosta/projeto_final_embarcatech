@@ -58,7 +58,7 @@ Instalação e Configuração
 
 Clone este repositório:
 
-git clone https://github.com/seuusuario/projeto-monitoramento.git
+git clone  git@github.com:GustavPcosta/projeto_final_embarcatech.git
 
 Instale as dependências da RP2040 (caso necessário);
 
